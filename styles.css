@@ -13,7 +13,7 @@ h1, h2, h3{
 }
 
 h3{
-    color: #e6a770;
+    color: #df9656;
 }
 
 hr{
@@ -111,8 +111,9 @@ justify-content: end;
  li{
     display: inline-block;
  }
- .text-title2 h2{
+  .text-title2 h2{
     font-weight: lighter;
+    color: #df9656;
  }
 .button{
    background-color: #F9F3DF;
