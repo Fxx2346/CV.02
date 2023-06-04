@@ -78,7 +78,7 @@ justify-content: end;
 .skill{
     display: grid;
     grid-template-columns: 30% 60%;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr;
     text-align: left;
 }
 
